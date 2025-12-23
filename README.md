@@ -70,6 +70,8 @@ My work focuses on **Hybrid Identity**, **Microsoft Entra ID**, **Azure**, and *
 
 ## 📫 Contact with Me
 - +201125380980
+- momenhussein26@gmail.com
+- www.linkedin.com/in/momen-hussein
 
 ---
 

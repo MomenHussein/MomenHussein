@@ -92,8 +92,8 @@ My goal is to grow into a **DevSecOps Engineer** by combining cloud, DevOps, and
 
 ## 📫 Contact with Me
 - 📧 Email: momenhussein26@gmail.com
-- 📞 +201125380980
-- 💼 www.linkedin.com/in/momen-hussein
+- 📞 Phone: +201125380980
+- 💼 LinkedIn: www.linkedin.com/in/momen-hussein
 - 💻 GitHub: https://github.com/MomenHussein
 
 ---

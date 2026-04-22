@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Momen Hussein
 
-## 🚀 Penetration Tester | DevSecOps Enthusiast | OSCP (In Progress)
+## 🚀 Penetration Tester | DevSecOps Enthusiast | OSCP
 
 I am an aspiring **Penetration Tester** with a strong background in IT infrastructure, system administration, and cloud environments.
 

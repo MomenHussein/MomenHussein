@@ -1,101 +1,119 @@
 # 👋 Hi, I'm Momen Hussein
 
-## 🚀 Junior Cloud & DevOps Engineer | Aspiring DevSecOps
+## 🚀 Penetration Tester | DevSecOps Enthusiast | OSCP (In Progress)
 
-I am a Junior Cloud & DevOps Engineer with over **1+ year of hands-on experience** in IT infrastructure and system administration.  
-I am actively transitioning into **cloud-native and DevOps-focused roles**, with a clear career goal toward **DevSecOps**.
+I am an aspiring **Penetration Tester** with a strong background in IT infrastructure, system administration, and cloud environments.
 
-I focus on building **secure, scalable, and automated cloud & hybrid infrastructures**, combining **infrastructure, automation, and security-by-design principles**.
+With over **1+ year of hands-on experience**, I understand how real-world enterprise environments are built — and how they can be attacked and secured.
+
+I am currently focusing on **offensive security**, while maintaining a **DevSecOps mindset**, combining security with infrastructure and automation.
 
 ---
 
 ## 🧠 What I Do
-- Build and manage **on-prem, cloud, and hybrid environments**
-- Apply **DevOps fundamentals** with a security-aware mindset
-- Automate infrastructure and operational tasks using scripting
-- Design environments following **least privilege and secure access principles**
-- Document labs and projects to reflect real-world scenarios
+
+* Perform **penetration testing labs** (Web & Network)
+* Practice **reconnaissance, enumeration, and exploitation techniques**
+* Analyze systems from an **attacker’s perspective**
+* Build and secure **on-prem, cloud, and hybrid environments**
+* Document labs and learning progress
 
 ---
 
-## 🛠️ Technical Skills
+## ⚔️ Penetration Testing Skills
 
-### ☁️ Cloud & DevOps
-- Microsoft Azure (AZ-900, AZ-104 – self-study)
-- Docker
-- Kubernetes (fundamentals)
-- Terraform (basic)
-- CI/CD concepts
-- Git & GitHub
+* Web Application Security (OWASP Top 10)
+* Network Scanning & Enumeration (Nmap)
+* Basic Exploitation (Metasploit, Manual)
+* Active Directory Attacks (Learning Phase)
+* Privilege Escalation (Fundamentals)
 
-### 💻 Programming & Automation
-- Python (automation & scripting)
-- Bash
-- C++
-- Java
+---
 
-### 🖥️ Infrastructure & Systems
-- Windows Server (AD DS, DNS, DHCP, GPO, File & Print)
-- Active Directory (Users, Groups, OUs, Delegation)
-- Microsoft 365 (Exchange Online, Teams, Admin Center)
+## 🛠️ Tools
 
-### 🌐 Networking
-- CCNA 200-301 level knowledge
-- TCP/IP, Subnetting, VLANs, Trunking
-- DHCP, DNS, NAT
-- Aruba HPE Switches & Access Points
+* Nmap
+* Burp Suite
+* Metasploit
+* Wireshark
+* Gobuster
+* Nikto
 
-### 🔐 Security & Firewalls
-- FortiGate Firewalls (NSE4 – studied with hands-on labs)
-- Firewall Policies & Rule Management
-- NAT & Secure Network Segmentation
-- VPN Fundamentals (FortiClient / Site-to-Site concepts)
-- Identity & Access Management (IAM)
-- RBAC & Least Privilege
-- Security Hardening with Group Policy
+---
+
+## 🔐 Security & Monitoring
+
+* SIEM: IBM QRadar
+
+  * Log Analysis & Correlation
+  * Offense Investigation
+  * Rule Creation
+* FortiGate (Policies, VPN, Network Segmentation – Hands-on Practice)
+
+---
+
+## ☁️ Cloud & DevSecOps
+
+* Microsoft Azure (AZ-104)
+* Docker
+* Kubernetes (Fundamentals)
+* Terraform (Basic)
+* CI/CD Concepts
+
+---
+
+## 🖥️ Infrastructure & Systems
+
+* Windows Server (AD DS, DNS, DHCP, GPO)
+* Active Directory (Users, Groups, Delegation)
+* Microsoft 365 Administration
+
+---
+
+## 🌐 Networking
+
+* CCNA-level knowledge
+* TCP/IP, VLANs, Routing Basics
+* Network Segmentation & Security
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🔹 Enterprise Hybrid Cloud Lab
-- Built an on-prem Active Directory environment using VMware
-- Deployed AD DS, DNS, DHCP, File Server, and Group Policies
-- Integrated on-prem AD with **Microsoft Entra ID** using Azure AD Connect
-- Administered Microsoft 365 tenant (Exchange Online, Teams, licensing)
-- Applied security best practices (RBAC, least privilege, secure access)
 
-🔗 Repository:  
-https://github.com/MomenHussein/enterprise-hybrid-cloud-lab
+* Built on-prem Active Directory environment
+* Integrated with Microsoft Entra ID
+* Applied RBAC & secure access
+* Simulated enterprise environment (useful for security testing)
+
+🔗 https://github.com/MomenHussein/enterprise-hybrid-cloud-lab
 
 ---
 
-## 🔐 DevSecOps Mindset
-I am continuously improving my understanding of **DevSecOps principles**, focusing on:
-- Security-by-design
-- Identity-first security
-- Secure network segmentation
-- Infrastructure hardening
-- Automation with security awareness
+## 🔥 Current Focus
 
-My goal is to grow into a **DevSecOps Engineer** by combining cloud, DevOps, and security practices in real-world environments.
+* Preparing for OSCP (Exam Preparation Phase)
+* Practicing Web & Network Penetration Testing
+* Learning Active Directory attack techniques
+* Building hands-on labs for real-world scenarios
 
 ---
 
 ## 🎯 Career Goals
-- Junior Cloud Engineer
-- Junior DevOps Engineer
-- DevSecOps (Junior / Associate)
-- Cloud & Hybrid Infrastructure Automation
+
+* Junior Penetration Tester
+* Red Team / Offensive Security
+* DevSecOps (Long-term goal)
 
 ---
 
-## 📫 Contact with Me
-- 📧 Email: momenhussein26@gmail.com
-- 📱 Phone: +201125380980
-- 💼 LinkedIn: www.linkedin.com/in/momen-hussein
-- 💻 GitHub: https://github.com/MomenHussein
+## 📫 Contact
+
+* 📧 Email: [momenhussein26@gmail.com](mailto:momenhussein26@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/momen-hussein](http://www.linkedin.com/in/momen-hussein)
+* 💻 GitHub: https://github.com/MomenHussein
 
 ---
 
-> This GitHub profile documents real-world labs and projects designed to reflect enterprise Microsoft environments and hybrid cloud scenarios.
+> This GitHub profile documents my journey in penetration testing, security labs, and real-world infrastructure scenarios.
